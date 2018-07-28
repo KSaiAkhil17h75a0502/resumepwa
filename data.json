@@ -1,0 +1,66 @@
+{"details":{
+  "image":"profile.jpg",
+  "name":"Sai Akhil Kuntamukkala",
+  "phoneno":"+91-7893761143",
+  "email":"Mail Me",
+  "Address":"H.No:6-2-109, Near Jammi Banda Park, Khammam, Telangana."
+},
+"carrer":{
+  "text": "I Want to become successful Film Maker."
+
+
+},
+  "Education":[{
+    "Qualification":"B.Tech",
+    "Institute":"DVR & Dr.HS MIC College Of Technology",
+    "Branch":"CSE",
+    "YearofPassing":"2017-2020",
+    "Percentage":"70%"
+    },
+  {
+    "Qualification":"Ploytechnic",
+    "Institute":"SES & SN Murthy Polytechnic College",
+    "Branch":"EEE",
+    "YearofPassing":"2012-2015",
+    "Percentage":"70%"
+    },
+  {
+    "Qualification":"Inter",
+    "Institute":"Sri Narayana Junior College",
+    "Branch":"MPC",
+    "YearofPassing":"2010-2012",
+    "Percentage":"75%"
+    },
+  {
+    "Qualification":"SSC",
+    "Institute":"Century High School",
+    "Branch":"------",
+    "YearofPassing":"2009-2010",
+    "Percentage":"81.16%"
+    }
+  ],
+  "Achievements":[{
+    "text":"I got 1st prize in short film contest in category of 'Best Social Issue Award' for my first short film 'Kill Piracy'."},
+    {
+      "text":"I got prize in Fancy Dress Competition in 5th and 7th class."
+    },
+    {
+      "text":"Got Appreciation from Akkineni Amala garu for my seminar on Short Film Making in Annapurna Studios."
+  }
+
+],
+  "TechnicalSkills":[{
+    "title":"Programming Language:",
+    "info":["C,C++,Python,Statics With R,Java"]
+  },
+  {
+    "title":"Databases:",
+    "info":["Oracle,SQL,Mysql,Tinydb"]
+  },
+  {
+  "title":"Operating Systems:",
+  "info":["Windows,Linux,Mac OS,DOC OS"]
+  }
+]
+
+}

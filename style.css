@@ -1,0 +1,147 @@
+.main{
+  border: 2px solid Black;
+  padding: 2%;
+  display: flex;
+  flex-direction: row;
+}
+.left{
+  border: 2px solid red;
+  padding: 2%;
+  margin: 2%;
+  width: 30%;
+  text-align: center;
+}
+#name{
+  color: orange;
+  font-size: 20px;
+  text-align: center;
+}
+.left img{
+  width: 50%;
+  border-radius: 50%;
+  border: 2px solid green;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  color: brown;
+}
+h4{
+  color: purple;
+}
+a{
+  color: blue;
+  font-size: 40px;
+  word-wrap: break-word;
+}
+.right{
+  border: 2px solid green;
+  padding: 2%;
+  margin: 2%;
+  width: 70%;
+}
+@media only screen and (min-width:0px) and (max-width:480px){
+  .main{
+    border: 2px solid Black;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  .left{
+    border: 2px solid red;
+    padding: 2%;
+    margin: 2%;
+    width: 90%;
+    text-align: center;
+    background-color: skyblue;
+  }
+  #name{
+    color: orange;
+    font-size: 20px;
+    text-align: center;
+  }
+  .table1{
+    width: 90%;
+    overflow-x: auto;
+  }
+  .left img{
+    width: 50%;
+    border-radius: 50%;
+    border: 2px solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h2{
+    color: brown;
+  }
+  h4{
+    color: purple;
+  }
+  a{
+    color: blue;
+    font-size: 40px;
+    word-wrap: break-word;
+  }
+  .right{
+    border: 2px solid green;
+    padding: 2%;
+    margin: 2%;
+    width: 90%;
+    background-color: skyblue;
+  }
+}
+@media only screen and (min-width:481px) and (max-width:768px) {
+  .main{
+    border: 2px solid Black;
+    padding: 2%;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  .left{
+    border: 2px solid red;
+    padding: 2%;
+    margin: 2%;
+    width: 50%;
+    text-align: center;
+    background-color: lightgreen;
+  }
+  #name{
+    color: orange;
+    font-size: 20px;
+    text-align: center;
+  }
+  .table1{
+    width: 90%;
+    overflow-x: auto;
+  }
+  .left img{
+    width: 50%;
+    border-radius: 50%;
+    border: 2px solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h2{
+    color: brown;
+  }
+  h4{
+    color: purple;
+  }
+  a{
+    color: blue;
+    font-size: 40px;
+    word-wrap: break-word;
+  }
+  .right{
+    border: 2px solid green;
+    padding: 2%;
+    margin: 2%;
+    width: 50%;
+    background-color: lightgreen;
+  }
+}
